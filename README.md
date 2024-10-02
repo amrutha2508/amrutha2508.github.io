@@ -2,7 +2,7 @@
 ### Rutgers University-New Brunswick, NJ (Sept 2023 - May 2025) 
 * MS in Statistics - Data Science **(GPA:3.929/4)**
 
-### Indian Institute of Technology Jodhpur (Aug. 2018 - Aug. 2022)
+### Indian Institute of Technology Jodhpur (Aug 2018 - Aug 2022)
 * Bachelor of Technology in Computer Science
 
 
