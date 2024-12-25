@@ -7,13 +7,19 @@
 
 
 ## Work Experience
-### Part-time lecturer, Data 101 Course (Sept 2024 - present)
+### Recitation Instructor, Data 101 Course (Sept 2024 - present)
 #### Department of Computer Science, Rutgers University 
 * Delivered simplified explanations of data science concepts to a non-technical audience.
 * Developed instructional materials centered on practical R programming skills and offered real-time support to address
 student questions, overseeing a class of 28 through both in-person and online.
 
 ## Projects
+### Attribute Name Alignment(Bristol Myers Squibb NLP Challenge) | [Git](https://github.com/amrutha2508/BMS-Challenge-2024)
+* Leveraged LLMs to automate the mapping of attribute inconsistencies in historical medical data to standardized conventions, enhancing dataset reliability for data-driven insights.
+* Expanded the training dataset from 32 to 45,456 samples (140,000% increase) using manual labeling, regex matching, and data augmentation (abbreviation substitution, oversampling, token deletion) to improve model robustness.
+* Developed a model using BioBERT for contextual embeddings and FastText for handling out-of-vocabulary terms and misspellings, a parent classifier to capture large attribute variations, and a child classifier to fine-tune classifications for lexically similar labels.
+* Accurately classified 42.2% of the entries, generated prediction sets for 47.6% to assist with manual review, and flagged 10.2% as irrelevant or junk data.
+  
 ### Workforce Analytics | [Git](https://github.com/amrutha2508/HR-Data-Analysis/tree/main)
 * Developed a machine learning model to predict employee turnover and enhance retention by identifying key departure factors through visual and statistical analyses.
 * Addressed potential data leakage through feature engineering by excluding biased variables, scaling data, and handling outliers and correlations to improve model performance.
