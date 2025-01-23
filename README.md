@@ -41,7 +41,7 @@ ANOVA tests to assess fare differences across categorical features and identify 
 
 ## Technical Skills
 * **Proficient**: Python, R, MySQL, MongoDB,Pandas, Numpy, Scikit-learn, Matplotlib, C++
-* **Worked with**: spaCy, NLTK, Tableau, seaborn, PostgreSQL
+* **Worked with**: spaCy, NLTK, Tableau, seaborn, PostgreSQL, Pytorch
 
 ## Achievements
 * Google Advanced Data Analytics Specialization [Certificate](https://coursera.org/share/8c1abf7333d204ce6a942e7adada169f)
