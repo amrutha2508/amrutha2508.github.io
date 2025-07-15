@@ -13,21 +13,25 @@
 * Developed a hierarchical classification framework integrating a BioBERT sequence classifier for high-level attribute grouping and a FastText + neural network ensemble to resolve semantic variations across similar standard names.
 * Achieved 42.2% accurate classifications, generated prediction sets for 47.6% of entries to streamline manual review, and flagged 10.2% of data as irrelevant or junk
 
-#### Recitation Instructor, Data 101 Course | Department of Computer Science, Rutgers University (Sept 2024 - present)
+#### Recitation Instructor, Data 101 Course | Department of Computer Science, Rutgers University (Sept 2024 - May 2025)
 * Delivered simplified explanations of data science concepts to a non-technical audience.
 * Developed instructional materials centered on practical R programming skills and offered real-time support to address
 student questions, overseeing a class of 28 through both in-person and online.
 
-## Recent Activities
+## Honors & Activities
+* Neville O'Reilly [Award](https://www.linkedin.com/in/amrutha-karuturi-017096245/overlay/1749839092293/single-media-viewer/?profileId=ACoAADyz0ZMBSdRAMiQwrkU8gi64p7QKAgNof10), Department of Statistics, Rutgers university
 * [Finalist](https://www.linkedin.com/posts/rutgers-masters-in-public-informatics_publicinformatics-rutgersmpi-datascience-activity-7304210057297068032-cQoT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyz0ZMBSdRAMiQwrkU8gi64p7QKAgNof10) in RAISE-25 Hackathon, Rutgers University	2025 
 * [Winner](https://www.linkedin.com/posts/amrutha-karuturi-017096245_machinelearning-ai-llms-activity-7300892608505995266-HgbG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyz0ZMBSdRAMiQwrkU8gi64p7QKAgNof10) of 2024 Bristol Myers Squibb Hackathon, Rutgers University	2024
 
 ## Technical Skills
 
 * **Certifications** : 	Google Advanced Data Analytics [Specialization](https://www.coursera.org/account/accomplishments/professional-cert/11JCKQDTW7JE?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof), IBM Databases and SQL [Certification](https://coursera.org/share/53ee8d6f07ed2a3918e7cc69ad913079)
+* AWS Certified Cloud Practitioner [Certificate](https://www.credly.com/badges/d43e9499-60ae-4c8f-a943-e9c53a25432c/public_url)
 * **Programming**:  	Python, R, SQL, MongoDB, [Tableau](https://public.tableau.com/app/profile/amrutha.k2872/vizzes), Excel
 * **Libraries & Frameworks**:  	NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, NLTK, Transformers
 * **Core Domain Expertise**:     ETL, Data Analytics & Visualization, Anomaly Detection, Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Time-Series Forecasting
+
+## Websites : [Tableau](https://public.tableau.com/app/profile/amrutha.k2872/vizzes)
 
 ## Projects
 
