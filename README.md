@@ -7,7 +7,7 @@
 
 
 ## Work Experience
-#### NLP Research Assistant | Bristol Myers Squibb & Rutgers University	(Oct 2024 - Dec 2024)
+#### Data Science Research Assistant | Bristol Myers Squibb & Rutgers University	(Oct 2024 - Dec 2024)
 * Designed and implemented an AI-powered pipeline using large language models (LLMs) to automate the mapping of attribute inconsistencies in historical medical data to standardized naming conventions, significantly improving data reliability for downstream analysis.
 * Scaled the training data from 32 to 45,456 samples (a 140,000% increase) by applying regex-based pattern matching and advanced data augmentation techniques including abbreviation expansion, token deletion, and oversampling.
 * Developed a hierarchical classification framework integrating a BioBERT sequence classifier for high-level attribute grouping and a FastText + neural network ensemble to resolve semantic variations across similar standard names.
